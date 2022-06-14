@@ -50,13 +50,14 @@ The project overviews the employment of different Machine Learning techniques to
 
 - ## Easy Ensemble AdaBoost Classifier
 
-![Easy ensemble AdaBoost Classifier](https://user-images.githubusercontent.com/93893263/173564384-22a557ff-8c41-41d0-9f7d-171a49c074f4.png)
+![image](https://user-images.githubusercontent.com/93893263/173567586-e6b9e92d-a7ef-41d3-b543-530a1fc81b8b.png)
 
-![image](https://user-images.githubusercontent.com/93893263/173564882-7f6e3557-d48d-4f74-ac24-6ad5fb4c54ae.png)
-
-
+![image](https://user-images.githubusercontent.com/93893263/173567847-60846755-32e3-4950-a07a-92393ec2a0e0.png)
 
 
+## Project Summary
+
+Apperently, the Easy Ensemble AdaBoost Classifier model perfomred better than all the models used in this project. Rest of the models exibits a weak precision in determining the credit risk, especially when a credit risk is high. However, the Ensemble models promises a good scope of improvemnet in credit risk analysis. Both these models are with high accuracy scores, precision and sensitivity and ideally recommended to predict credit risk.
 
 
 
